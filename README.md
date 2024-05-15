@@ -1,5 +1,5 @@
 <div align="center">
-    <h3><i>Attention WAE used for Rational Design of Antimicrobial and Anti-biofilm Peptides</i></h3>
+    <h3><i>GTM-guided WAE for Rational Design of Antimicrobial and Anti-biofilm Peptides</i></h3>
 
 ---
 
@@ -25,10 +25,10 @@ Our project presents a computational pipeline for the rational de novo design of
 To set up environment for attention WAE, run:
 
 ```bash
-conda env create -f attentionWAE.yml
-conda activate attentionWAE
+conda env create -f GTM_WAE.yml
+conda activate GTM_WAE
 
-pip install "attentionWAE[all]"
+pip install "GTM_WAE[all]"
 ```
 
 ## Main developers
