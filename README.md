@@ -32,9 +32,9 @@ pip install "GTM_WAE[all]"
 ```
 
 ## Main developers
-- **Karina Pikalyova** - Ph.D. student in the laboratory of chemoinformatics (karinapikalyova@gmail.com)
-- **Dr. Tagir Akhmetshin** - Postdoctoral researcher in the laboratory of chemoinformatics (tagirshin@gmail.com)
-- **Dr. Alexey Orlov** - Postdoctoral researcher in the laboratory of chemoinformatics (2alexeyorlov@gmail.com)
-- **Prof. Alexandre Varnek** - Director of laboratory of chemoinformatics (varnek@unistra.fr)
+- **Karina Pikalyova** - karinapikalyova@gmail.com
+- **Dr. Tagir Akhmetshin** - tagirshin@gmail.com
+- **Dr. Alexey Orlov** - 2alexeyorlov@gmail.com
+- **Prof. Alexandre Varnek** - varnek@unistra.fr
 
 
