@@ -19,7 +19,9 @@ Our project presents a computational pipeline for the rational de novo design of
 ## As for GTM, refer to :
 [![Lab Website](https://img.shields.io/badge/Website-Laboratory%20of%20Chemoinformatics-blue)](http://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/software-development/#c88715)
 
-
+## Data set
+The standardized pre-processed data set collected from public data bases used for training of GTM_WAE (in-house peptides are not included):
+* 44392 linear peptides of lengths 10-14 (inclusive) from TrEMBL, DBAASP, SATPdb, SwissProt, FermFooDb, Hemolytik, NeuroPedia, BaAMPs and APD3 [https://huggingface.co/datasets/karinapikalyova/peptides/tree/main]
 ## Quick Start
 
 To set up environment for attention WAE, run:
