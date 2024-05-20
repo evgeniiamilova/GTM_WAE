@@ -24,7 +24,7 @@ The standardized pre-processed data set collected from public data bases used fo
 * 44392 linear peptides of lengths 10-14 (inclusive) from TrEMBL, DBAASP, SATPdb, SwissProt, FermFooDb, Hemolytik, NeuroPedia, BaAMPs and APD3 [https://huggingface.co/datasets/karinapikalyova/peptides/tree/main]
 ## Quick Start
 
-To set up environment for attention WAE, run:
+To set up environment for GTM_WAE, run:
 
 ```bash
 conda env create -f GTM_WAE.yml
