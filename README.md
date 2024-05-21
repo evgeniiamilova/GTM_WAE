@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4500&color=5380F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=GTM-guided+WAE+for+Rational+Design;of+Antimicrobial+and+Anti-biofilm+Peptides" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4500&color=5380F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=GTM-guided+WAE+for+Rational+Design;of+Antimicrobial+and+Anti-biofilm+Peptides" alt="Typing SVG" /></a>
  <p><img align="left" width="100%" height="100%" src="./images/simplified_pipeline.png" alt="simplified_pipeline" style="margin-right: 1200px;"></p>
  
 
