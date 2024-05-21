@@ -1,5 +1,7 @@
 <div align="center">
-    <h3><i>GTM-guided WAE for Rational Design of Antimicrobial and Anti-biofilm Peptides</i></h3>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4500&color=5380F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=GTM-guided+WAE+for+Rational+Design;of+Antimicrobial+and+Anti-biofilm+Peptides" alt="Typing SVG" /></a>
+ <p><img align="left" width="100%" height="100%" src="./images/simplified_pipeline.png" alt="simplified_pipeline" style="margin-right: 1200px;"></p>
+ 
 
 ---
 
@@ -19,24 +21,36 @@ Our project presents a computational pipeline for the rational de novo design of
 ## As for GTM, refer to :
 [![Lab Website](https://img.shields.io/badge/Website-Laboratory%20of%20Chemoinformatics-blue)](http://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/software-development/#c88715)
 
-## Data set
-The standardized pre-processed data set collected from public data bases used for training of GTM_WAE (in-house peptides are not included):
-* 44392 linear peptides of lengths 10-14 (inclusive) from TrEMBL, DBAASP, SATPdb, SwissProt, FermFooDb, Hemolytik, NeuroPedia, BaAMPs and APD3 [https://huggingface.co/datasets/karinapikalyova/peptides/tree/main]
-## Quick Start
+## Installation Guide for gtm_wae
 
-To set up environment for GTM_WAE, run:
+Easily install `gtm_wae` using either `pip` or `Poetry`.
 
-```bash
-conda env create -f GTM_WAE.yml
-conda activate GTM_WAE
+### Using pip
 
-pip install "GTM_WAE[all]"
+To install with `pip`, run the following command:
+
+```sh
+pip install gtm_wae
+```
+
+### Using Poetry
+
+If you're managing your project with Poetry, add `gtm_wae` to your project using:
+
+```sh
+poetry add gtm_wae
+```
+
+Alternatively, you can manually add it to your `pyproject.toml` and then install it using:
+
+```sh
+poetry install
 ```
 
 ## Main developers
-- **Karina Pikalyova** - karinapikalyova@gmail.com
-- **Dr. Tagir Akhmetshin** - tagirshin@gmail.com
-- **Dr. Alexey Orlov** - 2alexeyorlov@gmail.com
-- **Prof. Alexandre Varnek** - varnek@unistra.fr
+- **Karina Pikalyova** - Ph.D. student in the laboratory of chemoinformatics (karinapikalyova@gmail.com)
+- **Dr. Tagir Akhmetshin** - Postdoctoral researcher in the laboratory of chemoinformatics (tagirshin@gmail.com)
+- **Dr. Alexey Orlov** - Postdoctoral researcher in the laboratory of chemoinformatics (2alexeyorlov@gmail.com)
+- **Prof. Alexandre Varnek** - Director of laboratory of chemoinformatics (varnek@unistra.fr)
 
 
