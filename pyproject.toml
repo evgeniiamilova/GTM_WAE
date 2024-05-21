@@ -8,6 +8,20 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10, <3.12"
+tqdm = "4.66.2"
+click = "8.1.7"
+pickleshare = "0.7.5"
+torchmetrics = "1.4.0"
+numpy = "1.26.4"
+pandas = "2.2.1"
+pathlib = "1.0.1"
+torch-optimizer = "0.3.0"
+scipy = "1.13.0"
+scikit-learn = "1.4.2"
+biopython = "1.83"
+pytorch-lightning = "2.2.2"
+lovely-tensors = "0.1.15"
+modlamp = "4.3.0"
 
 
 [build-system]
