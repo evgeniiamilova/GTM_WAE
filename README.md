@@ -19,16 +19,30 @@ Our project presents a computational pipeline for the rational de novo design of
 ## As for GTM, refer to :
 [![Lab Website](https://img.shields.io/badge/Website-Laboratory%20of%20Chemoinformatics-blue)](http://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/software-development/#c88715)
 
+## Installation Guide for gtm_wae
 
-## Quick Start
+Easily install `gtm_wae` using either `pip` or `Poetry`.
 
-To set up environment for attention WAE, run:
+### Using pip
 
-```bash
-conda env create -f GTM_WAE.yml
-conda activate GTM_WAE
+To install with `pip`, run the following command:
 
-pip install "GTM_WAE[all]"
+```sh
+pip install gtm_wae
+```
+
+### Using Poetry
+
+If you're managing your project with Poetry, add `gtm_wae` to your project using:
+
+```sh
+poetry add gtm_wae
+```
+
+Alternatively, you can manually add it to your `pyproject.toml` and then install it using:
+
+```sh
+poetry install
 ```
 
 ## Main developers
