@@ -5,6 +5,10 @@ description = "Official implementation of the custom WAE architecture guided by 
 authors = ["Laboratoire de chémoinformatique <karinapikalyova@gmail.com>, <tagirshin@gmail.com>, <2alexeyorlov@gmail.com>, <varnek@unistra.fr>"]
 license = "MIT"
 readme = "README.md"
+packages = [
+    { include = "GTM_WAE", from = "." },
+]
+
 
 [tool.poetry.dependencies]
 python = ">=3.10, <3.11"
@@ -25,5 +29,5 @@ modlamp = "4.3.0"
 
 
 [build-system]
-requires = ["poetry_core"]
+requires = ["poetry_core>=1.4.0"]
 build-backend = "poetry.core.masonry.api"
