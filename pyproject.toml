@@ -26,6 +26,8 @@ biopython = "1.83"
 pytorch-lightning = "2.2.2"
 lovely-tensors = "0.1.15"
 modlamp = "4.3.0"
+ipykernel = ">6"
+ipywidgets = ">8"
 
 
 [build-system]
