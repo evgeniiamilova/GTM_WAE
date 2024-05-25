@@ -31,7 +31,7 @@ Before installing GTM_WAE, ensure that your system has Python installed, with a 
 **Create and activate a Conda environment:**
 
 ```bash
-conda create -n gtm_wae_env python=3.11 -c conda-forge
+conda create -n gtm_wae_env python=3.10 -c conda-forge
 conda activate gtm_wae_env
 ```
 
