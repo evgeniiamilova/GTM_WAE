@@ -47,7 +47,7 @@ git clone https://github.com/Laboratoire-de-Chemoinformatique/GTM_WAE.git
 Install GTM_WAE using pip after activating your environment:
 
 ```bash
-cd gtm_wae/
+cd GTM_WAE/
 pip install -e .
 ```
 
@@ -56,7 +56,7 @@ pip install -e .
 To use GTM_WAE within Jupyter notebooks, you'll need to add your Conda or virtual environment as a kernel:
 
 ```bash
-python -m ipykernel install --user --name=gtm_wae_env --display-name="gtm_wae"
+python -m ipykernel install --user --name=gtm_wae_env --display-name="GTM_WAE"
 ```
 
 This will allow you to select this environment inside Jupyter as a kernel
@@ -69,7 +69,7 @@ To update GTM_WAE to the latest version:
 1. Go to the folder where GTM_WAE was cloned:
 
     ```bash
-    cd gtm_wae/
+    cd GTM_WAE/
     ```
 
 2. Pull the new version with git:
