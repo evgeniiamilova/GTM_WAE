@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.10, <3.12"
+python = ">=3.10, <3.11"
 tqdm = "4.66.2"
 click = "8.1.7"
 pickleshare = "0.7.5"
