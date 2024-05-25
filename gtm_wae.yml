@@ -1,4 +1,4 @@
-name: gtm_wae
+name: GTM_WAE
 channels:
   - pytorch
   - conda-forge
