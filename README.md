@@ -19,7 +19,7 @@ GTM_WAE is a Python package of the Wasserstein Autoencoder (WAE) with attention 
 - 🔬 **Property analysis:** Colour the maps according to any property and locate the clusters of peptides with particular properties.
 - 📊 **Motif analysis:** Identify predominant peptide motifs important for a property presence in a peptide cluster.
 - 🚀 **Explainable de novo generation:** Use map zones populated with peptides with desired properties for the de novo generation of analogues.
-- 💊 **Polypharmacological profiling:** Colour maps according to various properties (e.g., activity, cytotoxicity, etc.) to perform multi-property constrained generation.
+- 💊 **Multiple properties constrained generation:** Colour maps according to various properties (e.g., activity, cytotoxicity, etc.) to perform multi-property constrained generation.
 - 🔍 **Library comparison:** Compare different libraries or databases to analyze their diversity and coverage.
 
 ## Installation
