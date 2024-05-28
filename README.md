@@ -23,7 +23,7 @@ GTM_WAE is a Python package of the Wasserstein Autoencoder (WAE) with attention 
 - 🔍 **Library comparison:** Compare different libraries or databases to analyze their diversity and coverage.
 - 
 ## Data availability
-The publicly available data used for WAE training and GTM creation is available on Hugging Face Hub 🤗:[https://huggingface.co/datasets/karinapikalyova/peptides/tree/main] 
+The publicly available data used for WAE training and GTM creation is available on Hugging Face Hub 🤗:[Publicly available peptide data for GTM_WAE](https://huggingface.co/datasets/karinapikalyova/peptides/tree/main)
 
 ## Installation
 
