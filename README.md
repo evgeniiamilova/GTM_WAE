@@ -1,4 +1,12 @@
-# GTM_WAE: Cartography-guided de novo generation of peptides with desired properties
+<div align="center">
+
+# 💊🗺️🔍 GTM_WAE: Cartography-guided de novo generation of peptides with desired properties
+
+[![](https://img.shields.io/badge/Paper-pink?style=plastic&logo=bioRxiv)](https://www.biorxiv.org/content/10.1101/2024.11.17.622654v1)
+[![](https://img.shields.io/badge/GitHub-blue?style=plastic&logo=github)](https://github.com/Laboratoire-de-Chemoinformatique/GTM_WAE)
+[![](https://img.shields.io/badge/Huggingface-orange?style=plastic&logo=huggingface)](https://huggingface.co/datasets/karinapikalyova/peptides/tree/main)
+
+</div>
 
 GTM_WAE is a Python package of the Wasserstein Autoencoder (WAE) with attention layers in encoder and a collection of notebooks adapted for the use with non-linear dimensionality reduction method - Generative Topographic Mapping (GTM). It uses the map built on WAE latent vectors to visualize complex multidimensional latent space in 2D, making it easily explorable by human eye. The maps serve as guides to select zones to sample latent vectors that would be decoded to peptides with desired properties with high probability.
 
